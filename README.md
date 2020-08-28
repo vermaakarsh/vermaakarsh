@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akarsh Verma</h1>
-<h3 align="center">An Enterprise Architect with expertise in Analytics and Data Problems. I leverage my understanding of Cloud, Big Data and TOGAF to build Scalable Architecture. I love NLP problems and am an active practitioner in the space.</h3>
+<h3 align="center">An Enterprise Architect with expertise in Analytics and Data Problems. I leverage my understanding of Cloud, Big Data and TOGAF to build Scalable Architectures. I love NLP problems and am an active practitioner in the space.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermaakarsh" alt="vermaakarsh" /> </p>
 
@@ -22,7 +22,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akarshverma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/akarshverma/" height="30" width="30" /></a>
 <a href="https://kaggle.com/akarshverma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="akarshverma" height="30" width="30" /></a>
 <a href="https://fb.com/https://www.facebook.com/coffeeandengineering" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/coffeeandengineering" height="30" width="30" /></a>
-<a href="https://dribbble.com/akarsh verma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="akarsh verma" height="30" width="30" /></a>
 <a href="https://www.behance.net/akarsh verma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="akarsh verma" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucahi211fiykxuyboijecv8w?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucahi211fiykxuyboijecv8w?view_as=subscriber" height="30" width="30" /></a>
 </p>
