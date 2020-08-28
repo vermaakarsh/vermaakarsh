@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Designing Data Lakes**
 
-- 📝 I regulary write articles on [Coffee & Engineering (https://www.akarshverma.com/)](Coffee & Engineering (https://www.akarshverma.com/))
+- 📝 I regulary write articles on my blog @ **Coffee & Engineering** -- https://www.akarshverma.com/
 
 - 💬 Ask me about **Solution Architecture, Azure Cloud, NLP, Analytics & Data Problems**
 
